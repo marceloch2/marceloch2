@@ -1,4 +1,5 @@
-Hi, my name is Marcelo Henrique Carneiro, Brazillian full-stack developer. You can find more about me here -> https://stackoverflow.com/users/story/3878574
+Hi, my name is Marcelo Henrique Carneiro, Brazillian full-stack developer. 
+You can find more about - https://stackoverflow.com/users/story/3878574
 [![GitHub followers](https://img.shields.io/github/followers/sentoxaio.svg?style=social&label=Follow)](https://github.com/marceloch2)
 
 #### Statistics: 
